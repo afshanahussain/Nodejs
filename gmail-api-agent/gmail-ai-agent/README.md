@@ -20,7 +20,7 @@ gmail-ai-agent
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gmail-ai-agent.git
+   git clone https://github.com/afshanahussain/gmail-ai-agent.git
    ```
 
 2. Navigate to the project directory:
@@ -72,8 +72,8 @@ This project is a Node.js/TypeScript agent that connects to your Gmail account u
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/afshanahussain/gmail-api-agent.git
+cd gmail-api-agent/gmail-ai-agent
 ```
 
 ### 2. Install Dependencies
